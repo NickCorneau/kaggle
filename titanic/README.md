@@ -1,8 +1,8 @@
-Predict survival on the Titanic using Excel, Python, R & Random Forests
+# Predict survival on the Titanic using Excel, Python, R & Random Forests
 
 If you're new to data science and machine learning, or looking for a simple intro to the Kaggle competitions platform, this is the best place to start. Continue reading below the competition description to discover a number of tutorials, benchmark models, and more.
 
-Competition Description
+## Competition Description
 
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
