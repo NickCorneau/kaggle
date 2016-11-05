@@ -84,8 +84,6 @@ for row in test_file_object:
 
 test_file.close()
 predictions_file.close()
-print survival_table
-
 
 
 # ~~ Sources of Errors ~~ #
