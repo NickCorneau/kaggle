@@ -14,6 +14,6 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 | Submission # | Submission Score | File                     | Output CSV         | Date         |
 |--------------|------------------|--------------------------|--------------------|--------------|
-| 1            | 0.73206          | firstrandomforests.ipynb | ourfirstforest.csv | Nov 17, 2016 |
+| 1            | 0.73206          | [firstrandomforests.ipynb](https://github.com/NickCorneau/kaggle/blob/master/titanic/firstrandomforests.ipynb) | [ourfirstforest.csv](https://github.com/NickCorneau/kaggle/blob/master/titanic/csv/ourfirstforest.csv) | Nov 17, 2016 |
 |              |                  |                          |                    |              |
 |              |                  |                          |                    |              |
